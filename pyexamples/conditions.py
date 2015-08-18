@@ -1,6 +1,6 @@
 print('Hello World')
 
-salse = 'tomate'
+salse = 'tomates'
 
 if salse.startswith('toma'):
     print("it's problably tomato...")
